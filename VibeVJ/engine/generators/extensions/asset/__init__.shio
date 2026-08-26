@@ -1,0 +1,41 @@
+
+load_extension(generator) {
+	
+	load_path = generator.path;
+	
+	if(fileio.is_directory(load_path)) {
+		if(fileio.exists(load_path + "/src/__init__.shio"))
+			load_path += "/src/__init__.shio"
+		else if(fileio.exists(load_path + "/__init__.shio"))
+			load_path += "/__init__.shio";
+		else
+			std.error("Not a valid asset (no __init__.shio found)");
+			return;
+	}
+	
+	generator.module = std.module();
+	generator.module.load_file(load_path);
+	
+	if(generator.module.has("entry"))
+		generator.module.call("entry", generator, generator.node);
+	
+	if(generator.module.has("update")) {
+		update_fn = generator.module.get("update");
+		generator.pre_callback([update_fn](generator, tl_pos, pos_delta){
+			update_fn(generator, tl_pos, pos_delta);
+		});
+	}
+	if(generator.module.has("update_pre")) {
+		update_fn = generator.module.get("update_pre");
+		generator.pre_callback([update_fn](generator, tl_pos, pos_delta){
+			update_fn(generator, tl_pos, pos_delta);
+		});
+	}
+	
+	if(generator.module.has("update_post")) {
+		update_fn = generator.module.get("update_post");
+		generator.post_callback([update_fn](generator){
+			update_fn(generator);
+		});
+	}
+}

@@ -1,0 +1,1381 @@
+{
+    "device_controls": {
+        "attributes": null,
+        "controls": {
+            "ArtNetSync": {
+                "value": 1
+            },
+            "IN Focusrite USB MIDI": {
+                "value": null
+            },
+            "IN Impact LX49+": {
+                "value": null
+            },
+            "IN MIDIIN2 (Impact LX49+)": {
+                "value": null
+            },
+            "OUT Focusrite USB MIDI": {
+                "value": null
+            },
+            "OUT Impact LX49+": {
+                "value": null
+            },
+            "OUT Microsoft GS Wavetable Synth": {
+                "value": null
+            },
+            "Shizonet": {
+                "value": 1
+            }
+        },
+        "links": {
+            "global": null,
+            "local": null
+        },
+        "subnodes": {
+            "fixture_menu": {
+                "attributes": {
+                    "COLOR_2_0@COLOR#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "COLOR_2_0@COLOR#Trigger": {
+                        "value": 0
+                    },
+                    "COLOR_2_0@COLOR#max": {
+                        "value": 1.0
+                    },
+                    "COLOR_2_0@COLOR#min": {
+                        "value": 0.0
+                    },
+                    "COLOR_2_0@COLOR#smoothing": {
+                        "value": 0.0
+                    },
+                    "COLOR_2_1@COLOR#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "COLOR_2_1@COLOR#Trigger": {
+                        "value": 0
+                    },
+                    "COLOR_2_1@COLOR#max": {
+                        "value": 1.0
+                    },
+                    "COLOR_2_1@COLOR#min": {
+                        "value": 0.0
+                    },
+                    "COLOR_2_1@COLOR#smoothing": {
+                        "value": 0.0
+                    },
+                    "DIMMER_5_0@DIMMER#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "DIMMER_5_0@DIMMER#Trigger": {
+                        "value": 0
+                    },
+                    "DIMMER_5_0@DIMMER#max": {
+                        "value": 1.0
+                    },
+                    "DIMMER_5_0@DIMMER#min": {
+                        "value": 0.0
+                    },
+                    "DIMMER_5_0@DIMMER#smoothing": {
+                        "value": 0.0
+                    },
+                    "DIMMER_5_1@DIMMER#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "DIMMER_5_1@DIMMER#Trigger": {
+                        "value": 0
+                    },
+                    "DIMMER_5_1@DIMMER#max": {
+                        "value": 1.0
+                    },
+                    "DIMMER_5_1@DIMMER#min": {
+                        "value": 0.0
+                    },
+                    "DIMMER_5_1@DIMMER#smoothing": {
+                        "value": 0.0
+                    },
+                    "GOBO_3_0@GOBO#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "GOBO_3_0@GOBO#Trigger": {
+                        "value": 0
+                    },
+                    "GOBO_3_0@GOBO#max": {
+                        "value": 1.0
+                    },
+                    "GOBO_3_0@GOBO#min": {
+                        "value": 0.0
+                    },
+                    "GOBO_3_0@GOBO#smoothing": {
+                        "value": 0.0
+                    },
+                    "GOBO_3_1@GOBO#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "GOBO_3_1@GOBO#Trigger": {
+                        "value": 0
+                    },
+                    "GOBO_3_1@GOBO#max": {
+                        "value": 1.0
+                    },
+                    "GOBO_3_1@GOBO#min": {
+                        "value": 0.0
+                    },
+                    "GOBO_3_1@GOBO#smoothing": {
+                        "value": 0.0
+                    },
+                    "New channel_0_0@New channel#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "New channel_0_0@New channel#Trigger": {
+                        "value": 0
+                    },
+                    "New channel_0_0@New channel#max": {
+                        "value": 1.0
+                    },
+                    "New channel_0_0@New channel#min": {
+                        "value": 0.0
+                    },
+                    "New channel_0_0@New channel#smoothing": {
+                        "value": 0.0
+                    },
+                    "New channel_1_0@New channel#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "New channel_1_0@New channel#Trigger": {
+                        "value": 0
+                    },
+                    "New channel_1_0@New channel#max": {
+                        "value": 1.0
+                    },
+                    "New channel_1_0@New channel#min": {
+                        "value": 0.0
+                    },
+                    "New channel_1_0@New channel#smoothing": {
+                        "value": 0.0
+                    },
+                    "PAN_0_0@PAN#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "PAN_0_0@PAN#Trigger": {
+                        "value": 0
+                    },
+                    "PAN_0_0@PAN#max": {
+                        "value": 1.0
+                    },
+                    "PAN_0_0@PAN#min": {
+                        "value": 0.0
+                    },
+                    "PAN_0_0@PAN#smoothing": {
+                        "value": 0.0
+                    },
+                    "PAN_0_1@PAN#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "PAN_0_1@PAN#Trigger": {
+                        "value": 0
+                    },
+                    "PAN_0_1@PAN#max": {
+                        "value": 1.0
+                    },
+                    "PAN_0_1@PAN#min": {
+                        "value": 0.0
+                    },
+                    "PAN_0_1@PAN#smoothing": {
+                        "value": 0.0
+                    },
+                    "STROBE_4_0@STROBE#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "STROBE_4_0@STROBE#Trigger": {
+                        "value": 0
+                    },
+                    "STROBE_4_0@STROBE#max": {
+                        "value": 1.0
+                    },
+                    "STROBE_4_0@STROBE#min": {
+                        "value": 0.0
+                    },
+                    "STROBE_4_0@STROBE#smoothing": {
+                        "value": 0.0
+                    },
+                    "STROBE_4_1@STROBE#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "STROBE_4_1@STROBE#Trigger": {
+                        "value": 0
+                    },
+                    "STROBE_4_1@STROBE#max": {
+                        "value": 1.0
+                    },
+                    "STROBE_4_1@STROBE#min": {
+                        "value": 0.0
+                    },
+                    "STROBE_4_1@STROBE#smoothing": {
+                        "value": 0.0
+                    },
+                    "TILT_1_0@TILT#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TILT_1_0@TILT#Trigger": {
+                        "value": 0
+                    },
+                    "TILT_1_0@TILT#max": {
+                        "value": 1.0
+                    },
+                    "TILT_1_0@TILT#min": {
+                        "value": 0.0
+                    },
+                    "TILT_1_0@TILT#smoothing": {
+                        "value": 0.09406392276287079
+                    },
+                    "TILT_1_1@TILT#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TILT_1_1@TILT#Trigger": {
+                        "value": 0
+                    },
+                    "TILT_1_1@TILT#max": {
+                        "value": 1.0
+                    },
+                    "TILT_1_1@TILT#min": {
+                        "value": 0.0
+                    },
+                    "TILT_1_1@TILT#smoothing": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.B#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.B#Trigger": {
+                        "value": 0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.G#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.G#Trigger": {
+                        "value": 0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.R#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.R#Trigger": {
+                        "value": 0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.W#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.W#Trigger": {
+                        "value": 0
+                    },
+                    "TestRGBW_3_0@B#max": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0@B#min": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0@B#smoothing": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0@G#max": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0@G#min": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0@G#smoothing": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0@R#max": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0@R#min": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0@R#smoothing": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0@W#max": {
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0@W#min": {
+                        "value": 0.0
+                    },
+                    "TestRGBW_3_0@W#smoothing": {
+                        "value": 0.0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.B#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.B#Trigger": {
+                        "value": 0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.G#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.G#Trigger": {
+                        "value": 0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.R#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.R#Trigger": {
+                        "value": 0
+                    },
+                    "TestRGB_2_0@B#max": {
+                        "value": 1.0
+                    },
+                    "TestRGB_2_0@B#min": {
+                        "value": 0.0
+                    },
+                    "TestRGB_2_0@B#smoothing": {
+                        "value": 0.0
+                    },
+                    "TestRGB_2_0@G#max": {
+                        "value": 1.0
+                    },
+                    "TestRGB_2_0@G#min": {
+                        "value": 0.0
+                    },
+                    "TestRGB_2_0@G#smoothing": {
+                        "value": 0.0
+                    },
+                    "TestRGB_2_0@R#max": {
+                        "value": 1.0
+                    },
+                    "TestRGB_2_0@R#min": {
+                        "value": 0.0
+                    },
+                    "TestRGB_2_0@R#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_COLOR_2@DIM COLOR#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_COLOR_2@DIM COLOR#Trigger": {
+                        "value": 0
+                    },
+                    "dim_COLOR_2@DIM COLOR#max": {
+                        "value": 1.0
+                    },
+                    "dim_COLOR_2@DIM COLOR#min": {
+                        "value": 0.0
+                    },
+                    "dim_COLOR_2@DIM COLOR#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_DIMMER_5@DIM DIMMER#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_DIMMER_5@DIM DIMMER#Trigger": {
+                        "value": 0
+                    },
+                    "dim_DIMMER_5@DIM DIMMER#max": {
+                        "value": 1.0
+                    },
+                    "dim_DIMMER_5@DIM DIMMER#min": {
+                        "value": 0.0
+                    },
+                    "dim_DIMMER_5@DIM DIMMER#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_GOBO_3@DIM GOBO#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_GOBO_3@DIM GOBO#Trigger": {
+                        "value": 0
+                    },
+                    "dim_GOBO_3@DIM GOBO#max": {
+                        "value": 1.0
+                    },
+                    "dim_GOBO_3@DIM GOBO#min": {
+                        "value": 0.0
+                    },
+                    "dim_GOBO_3@DIM GOBO#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_New channel_0@DIM New channel#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_New channel_0@DIM New channel#Trigger": {
+                        "value": 0
+                    },
+                    "dim_New channel_0@DIM New channel#max": {
+                        "value": 1.0
+                    },
+                    "dim_New channel_0@DIM New channel#min": {
+                        "value": 0.0
+                    },
+                    "dim_New channel_0@DIM New channel#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_New channel_1@DIM New channel#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_New channel_1@DIM New channel#Trigger": {
+                        "value": 0
+                    },
+                    "dim_New channel_1@DIM New channel#max": {
+                        "value": 1.0
+                    },
+                    "dim_New channel_1@DIM New channel#min": {
+                        "value": 0.0
+                    },
+                    "dim_New channel_1@DIM New channel#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_PAN_0@DIM PAN#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_PAN_0@DIM PAN#Trigger": {
+                        "value": 0
+                    },
+                    "dim_PAN_0@DIM PAN#max": {
+                        "value": 1.0
+                    },
+                    "dim_PAN_0@DIM PAN#min": {
+                        "value": 0.0
+                    },
+                    "dim_PAN_0@DIM PAN#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_STROBE_4@DIM STROBE#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_STROBE_4@DIM STROBE#Trigger": {
+                        "value": 0
+                    },
+                    "dim_STROBE_4@DIM STROBE#max": {
+                        "value": 1.0
+                    },
+                    "dim_STROBE_4@DIM STROBE#min": {
+                        "value": 0.0
+                    },
+                    "dim_STROBE_4@DIM STROBE#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_TILT_1@DIM TILT#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_TILT_1@DIM TILT#Trigger": {
+                        "value": 0
+                    },
+                    "dim_TILT_1@DIM TILT#max": {
+                        "value": 1.0
+                    },
+                    "dim_TILT_1@DIM TILT#min": {
+                        "value": 0.0
+                    },
+                    "dim_TILT_1@DIM TILT#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_TestRGBW_3@DIM TestRGBW#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_TestRGBW_3@DIM TestRGBW#Trigger": {
+                        "value": 0
+                    },
+                    "dim_TestRGBW_3@DIM TestRGBW#max": {
+                        "value": 1.0
+                    },
+                    "dim_TestRGBW_3@DIM TestRGBW#min": {
+                        "value": 0.0
+                    },
+                    "dim_TestRGBW_3@DIM TestRGBW#smoothing": {
+                        "value": 0.0
+                    },
+                    "dim_TestRGB_2@DIM TestRGB#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "dim_TestRGB_2@DIM TestRGB#Trigger": {
+                        "value": 0
+                    },
+                    "dim_TestRGB_2@DIM TestRGB#max": {
+                        "value": 1.0
+                    },
+                    "dim_TestRGB_2@DIM TestRGB#min": {
+                        "value": 0.0
+                    },
+                    "dim_TestRGB_2@DIM TestRGB#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_COLOR_2@COLOR#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_COLOR_2@COLOR#Trigger": {
+                        "value": 0
+                    },
+                    "flash_COLOR_2@COLOR#max": {
+                        "value": 1.0
+                    },
+                    "flash_COLOR_2@COLOR#min": {
+                        "value": 0.0
+                    },
+                    "flash_COLOR_2@COLOR#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_DIMMER_5@DIMMER#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_DIMMER_5@DIMMER#Trigger": {
+                        "value": 0
+                    },
+                    "flash_DIMMER_5@DIMMER#max": {
+                        "value": 1.0
+                    },
+                    "flash_DIMMER_5@DIMMER#min": {
+                        "value": 0.0
+                    },
+                    "flash_DIMMER_5@DIMMER#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_GOBO_3@GOBO#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_GOBO_3@GOBO#Trigger": {
+                        "value": 0
+                    },
+                    "flash_GOBO_3@GOBO#max": {
+                        "value": 1.0
+                    },
+                    "flash_GOBO_3@GOBO#min": {
+                        "value": 0.0
+                    },
+                    "flash_GOBO_3@GOBO#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_New channel_0@New channel#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_New channel_0@New channel#Trigger": {
+                        "value": 0
+                    },
+                    "flash_New channel_0@New channel#max": {
+                        "value": 1.0
+                    },
+                    "flash_New channel_0@New channel#min": {
+                        "value": 0.0
+                    },
+                    "flash_New channel_0@New channel#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_New channel_1@New channel#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_New channel_1@New channel#Trigger": {
+                        "value": 0
+                    },
+                    "flash_New channel_1@New channel#max": {
+                        "value": 1.0
+                    },
+                    "flash_New channel_1@New channel#min": {
+                        "value": 0.0
+                    },
+                    "flash_New channel_1@New channel#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_PAN_0@PAN#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_PAN_0@PAN#Trigger": {
+                        "value": 0
+                    },
+                    "flash_PAN_0@PAN#max": {
+                        "value": 1.0
+                    },
+                    "flash_PAN_0@PAN#min": {
+                        "value": 0.0
+                    },
+                    "flash_PAN_0@PAN#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_STROBE_4@STROBE#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_STROBE_4@STROBE#Trigger": {
+                        "value": 0
+                    },
+                    "flash_STROBE_4@STROBE#max": {
+                        "value": 1.0
+                    },
+                    "flash_STROBE_4@STROBE#min": {
+                        "value": 0.0
+                    },
+                    "flash_STROBE_4@STROBE#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_TILT_1@TILT#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_TILT_1@TILT#Trigger": {
+                        "value": 0
+                    },
+                    "flash_TILT_1@TILT#max": {
+                        "value": 1.0
+                    },
+                    "flash_TILT_1@TILT#min": {
+                        "value": 0.0
+                    },
+                    "flash_TILT_1@TILT#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_TestRGBW_3@TestRGBW#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_TestRGBW_3@TestRGBW#Trigger": {
+                        "value": 0
+                    },
+                    "flash_TestRGBW_3@TestRGBW#max": {
+                        "value": 1.0
+                    },
+                    "flash_TestRGBW_3@TestRGBW#min": {
+                        "value": 0.0
+                    },
+                    "flash_TestRGBW_3@TestRGBW#smoothing": {
+                        "value": 0.0
+                    },
+                    "flash_TestRGB_2@TestRGB#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "flash_TestRGB_2@TestRGB#Trigger": {
+                        "value": 0
+                    },
+                    "flash_TestRGB_2@TestRGB#max": {
+                        "value": 1.0
+                    },
+                    "flash_TestRGB_2@TestRGB#min": {
+                        "value": 0.0
+                    },
+                    "flash_TestRGB_2@TestRGB#smoothing": {
+                        "value": 0.0
+                    }
+                },
+                "controls": {
+                    "COLOR_2_0@COLOR": {
+                        "norm_value": 0.18629030883312225,
+                        "value": 0.18629030883312225
+                    },
+                    "COLOR_2_1@COLOR": {
+                        "norm_value": 0.060483869165182114,
+                        "value": 0.060483869165182114
+                    },
+                    "DIMMER_5_0@DIMMER": {
+                        "norm_value": 4.203895392974451e-45,
+                        "value": 4.203895392974451e-45
+                    },
+                    "DIMMER_5_1@DIMMER": {
+                        "norm_value": 0.059278421103954315,
+                        "value": 0.059278421103954315
+                    },
+                    "GOBO_3_0@GOBO": {
+                        "norm_value": 0.25080645084381104,
+                        "value": 0.25080645084381104
+                    },
+                    "GOBO_3_1@GOBO": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "New channel_0_0@New channel": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "New channel_1_0@New channel": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "PAN_0_0@PAN": {
+                        "norm_value": 0.38347750902175903,
+                        "value": 0.38347750902175903
+                    },
+                    "PAN_0_1@PAN": {
+                        "norm_value": 0.6163411140441895,
+                        "value": 0.6163411140441895
+                    },
+                    "STROBE_4_0@STROBE": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "STROBE_4_1@STROBE": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "TILT_1_0@TILT": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "TILT_1_1@TILT": {
+                        "norm_value": 0.8028478622436523,
+                        "value": 0.8028478622436523
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.B": {
+                        "norm_value": 0.4853658378124237,
+                        "value": 0.4853658378124237
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.G": {
+                        "norm_value": 0.37804877758026123,
+                        "value": 0.37804877758026123
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.R": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "TestRGBW_3_0.TestRGBW_3_0@TestRGBW.W": {
+                        "norm_value": 0.37804877758026123,
+                        "value": 0.37804877758026123
+                    },
+                    "TestRGBW_3_0@TestRGBW": {
+                        "components": [
+                            {
+                                "norm_value": 1.0,
+                                "value": 1.0
+                            },
+                            {
+                                "norm_value": 0.37804877758026123,
+                                "value": 0.37804877758026123
+                            },
+                            {
+                                "norm_value": 0.4853658378124237,
+                                "value": 0.4853658378124237
+                            },
+                            {
+                                "norm_value": 0.37804877758026123,
+                                "value": 0.37804877758026123
+                            }
+                        ],
+                        "expanded": 1,
+                        "value": [
+                            1.0,
+                            0.37804877758026123,
+                            0.4853658378124237,
+                            0.37804877758026123
+                        ]
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.B": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.G": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "TestRGB_2_0.TestRGB_2_0@TestRGB.R": {
+                        "norm_value": 0.12800025939941406,
+                        "value": 0.12800025939941406
+                    },
+                    "TestRGB_2_0@TestRGB": {
+                        "components": [
+                            {
+                                "norm_value": 0.12800025939941406,
+                                "value": 0.12800025939941406
+                            },
+                            {
+                                "norm_value": 0.0,
+                                "value": 0.0
+                            },
+                            {
+                                "norm_value": 1.0,
+                                "value": 1.0
+                            }
+                        ],
+                        "value": [
+                            0.12800025939941406,
+                            0.0,
+                            1.0
+                        ]
+                    },
+                    "dim_COLOR_2@DIM COLOR": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_DIMMER_5@DIM DIMMER": {
+                        "norm_value": 0.037903230637311935,
+                        "value": 0.037903230637311935
+                    },
+                    "dim_GOBO_3@DIM GOBO": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_New channel_0@DIM New channel": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_New channel_1@DIM New channel": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_PAN_0@DIM PAN": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_STROBE_4@DIM STROBE": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_TILT_1@DIM TILT": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_TestRGBW_3@DIM TestRGBW": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "dim_TestRGB_2@DIM TestRGB": {
+                        "norm_value": 1.0,
+                        "value": 1.0
+                    },
+                    "flash_COLOR_2@COLOR": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_DIMMER_5@DIMMER": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_GOBO_3@GOBO": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_New channel_0@New channel": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_New channel_1@New channel": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_PAN_0@PAN": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_STROBE_4@STROBE": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_TILT_1@TILT": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_TestRGBW_3@TestRGBW": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flash_TestRGB_2@TestRGB": {
+                        "norm_value": 0.0,
+                        "value": 0.0
+                    },
+                    "flashbtn_COLOR_2@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_DIMMER_5@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_GOBO_3@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_New channel_0@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_New channel_1@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_PAN_0@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_STROBE_4@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_TILT_1@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_TestRGBW_3@FLASH": {
+                        "value": 0
+                    },
+                    "flashbtn_TestRGB_2@FLASH": {
+                        "value": 0
+                    }
+                },
+                "links": {
+                    "global": null,
+                    "local": null
+                },
+                "subnodes": null
+            }
+        }
+    },
+    "generator_view": {
+        "attributes": null,
+        "controls": null,
+        "links": {
+            "global": null,
+            "local": null
+        },
+        "subnodes": {
+            "e3d5d53a-f391-4266-8108-8733ae9ccbc5": {
+                "attributes": null,
+                "controls": null,
+                "links": {
+                    "global": null,
+                    "local": null
+                },
+                "subnodes": {
+                    "442bb899-68fc-4d4a-86fa-6d7f93627363": {
+                        "attributes": null,
+                        "controls": null,
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    },
+                    "442bb899-68fc-4d4a-86fa-6d7f93627363_buttonpanel": {
+                        "attributes": null,
+                        "controls": {
+                            "ACT": {
+                                "value": 1
+                            }
+                        },
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    },
+                    "463c8434-edf4-4860-8d70-de5ce528307b": {
+                        "attributes": {
+                            "Bias#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Bias#Trigger": {
+                                "value": 0
+                            },
+                            "Bias#max": {
+                                "value": 1.0
+                            },
+                            "Bias#min": {
+                                "value": -1.0
+                            },
+                            "Bias#smoothing": {
+                                "value": 0.0
+                            },
+                            "Frequency#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Frequency#Trigger": {
+                                "value": 0
+                            },
+                            "Frequency#max": {
+                                "value": 1.0
+                            },
+                            "Frequency#min": {
+                                "value": 0.0
+                            },
+                            "Frequency#smoothing": {
+                                "value": 0.0
+                            },
+                            "Gain#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Gain#Trigger": {
+                                "value": 0
+                            },
+                            "Gain#max": {
+                                "value": 2.0
+                            },
+                            "Gain#min": {
+                                "value": 0.0
+                            },
+                            "Gain#smoothing": {
+                                "value": 0.0
+                            },
+                            "Output#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Output#Trigger": {
+                                "value": 0
+                            },
+                            "Output#max": {
+                                "value": 1.0
+                            },
+                            "Output#min": {
+                                "value": 0.0
+                            },
+                            "Output#smoothing": {
+                                "value": 0.0
+                            },
+                            "Saturation#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Saturation#Trigger": {
+                                "value": 0
+                            },
+                            "Saturation#max": {
+                                "value": 1.0
+                            },
+                            "Saturation#min": {
+                                "value": 0.0
+                            },
+                            "Saturation#smoothing": {
+                                "value": 0.0
+                            }
+                        },
+                        "controls": {
+                            "Bias": {
+                                "norm_value": 0.5,
+                                "value": 0.0
+                            },
+                            "Frequency": {
+                                "norm_value": 0.25,
+                                "value": 0.25
+                            },
+                            "Gain": {
+                                "norm_value": 0.5,
+                                "value": 1.0
+                            },
+                            "Output": {
+                                "norm_value": 0.9361863136291504,
+                                "value": 0.9361863136291504
+                            },
+                            "Saturation": {
+                                "norm_value": 0.0,
+                                "value": 0.0
+                            },
+                            "mode": {
+                                "value": 0
+                            }
+                        },
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    },
+                    "463c8434-edf4-4860-8d70-de5ce528307b_buttonpanel": {
+                        "attributes": null,
+                        "controls": {
+                            "ACT": {
+                                "value": 1
+                            }
+                        },
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    },
+                    "b335df76-cc4d-4da7-9795-c8f5da0a1a57": {
+                        "attributes": null,
+                        "controls": null,
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    },
+                    "b335df76-cc4d-4da7-9795-c8f5da0a1a57_buttonpanel": {
+                        "attributes": null,
+                        "controls": {
+                            "ACT": {
+                                "value": 1
+                            }
+                        },
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    },
+                    "d76c8b0b-64b3-45b5-9d35-8fc762cd2009": {
+                        "attributes": {
+                            "Control 1#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Control 1#Trigger": {
+                                "value": 0
+                            },
+                            "Control 1#max": {
+                                "value": 1.0
+                            },
+                            "Control 1#min": {
+                                "value": 0.0
+                            },
+                            "Control 1#smoothing": {
+                                "value": 0.0
+                            },
+                            "Control 2#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Control 2#Trigger": {
+                                "value": 0
+                            },
+                            "Control 2#max": {
+                                "value": 1.0
+                            },
+                            "Control 2#min": {
+                                "value": 0.0
+                            },
+                            "Control 2#smoothing": {
+                                "value": 0.0
+                            },
+                            "Control 3#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Control 3#Trigger": {
+                                "value": 0
+                            },
+                            "Control 3#max": {
+                                "value": 1.0
+                            },
+                            "Control 3#min": {
+                                "value": 0.0
+                            },
+                            "Control 3#smoothing": {
+                                "value": 0.0
+                            },
+                            "Control 4#SyncMultiplier": {
+                                "value": 1.0
+                            },
+                            "Control 4#Trigger": {
+                                "value": 0
+                            },
+                            "Control 4#max": {
+                                "value": 1.0
+                            },
+                            "Control 4#min": {
+                                "value": 0.0
+                            },
+                            "Control 4#smoothing": {
+                                "value": 0.0
+                            }
+                        },
+                        "controls": {
+                            "Control 1": {
+                                "norm_value": 0.0,
+                                "value": 0.0
+                            },
+                            "Control 2": {
+                                "norm_value": 0.0,
+                                "value": 0.0
+                            },
+                            "Control 3": {
+                                "norm_value": 0.0,
+                                "value": 0.0
+                            },
+                            "Control 4": {
+                                "norm_value": 0.0,
+                                "value": 0.0
+                            }
+                        },
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    },
+                    "d76c8b0b-64b3-45b5-9d35-8fc762cd2009_buttonpanel": {
+                        "attributes": null,
+                        "controls": {
+                            "ACT": {
+                                "value": 1
+                            }
+                        },
+                        "links": {
+                            "global": null,
+                            "local": null
+                        },
+                        "subnodes": null
+                    }
+                }
+            },
+            "e3d5d53a-f391-4266-8108-8733ae9ccbc5_buttonpanel": {
+                "attributes": null,
+                "controls": {
+                    "ACT": {
+                        "value": 1
+                    }
+                },
+                "links": {
+                    "global": null,
+                    "local": null
+                },
+                "subnodes": null
+            }
+        }
+    },
+    "project_ctrls": {
+        "attributes": null,
+        "controls": null,
+        "links": {
+            "global": null,
+            "local": null
+        },
+        "subnodes": {
+            "project_controls": {
+                "attributes": {
+                    "Current FPS#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "Current FPS#Trigger": {
+                        "value": 0
+                    },
+                    "Current FPS#max": {
+                        "value": 2147483647
+                    },
+                    "Current FPS#min": {
+                        "value": -2147483648
+                    },
+                    "Target FPS#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "Target FPS#Trigger": {
+                        "value": 0
+                    },
+                    "Target FPS#max": {
+                        "value": 2147483647
+                    },
+                    "Target FPS#min": {
+                        "value": -2147483648
+                    },
+                    "project_ctrls@Target Height#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "project_ctrls@Target Height#Trigger": {
+                        "value": 0
+                    },
+                    "project_ctrls@Target Height#max": {
+                        "value": 2147483647
+                    },
+                    "project_ctrls@Target Height#min": {
+                        "value": -2147483648
+                    },
+                    "project_ctrls@Target Width#SyncMultiplier": {
+                        "value": 1.0
+                    },
+                    "project_ctrls@Target Width#Trigger": {
+                        "value": 0
+                    },
+                    "project_ctrls@Target Width#max": {
+                        "value": 2147483647
+                    },
+                    "project_ctrls@Target Width#min": {
+                        "value": -2147483648
+                    }
+                },
+                "controls": {
+                    "Current FPS": {
+                        "norm_value": 0.0,
+                        "value": 131
+                    },
+                    "Target FPS": {
+                        "norm_value": 0.0,
+                        "value": 165
+                    },
+                    "project_ctrls@Target Height": {
+                        "norm_value": 0.0,
+                        "value": 1080
+                    },
+                    "project_ctrls@Target Width": {
+                        "norm_value": 0.0,
+                        "value": 1920
+                    }
+                },
+                "links": {
+                    "global": null,
+                    "local": null
+                },
+                "subnodes": null
+            }
+        }
+    },
+    "timeline": {
+        "attributes": null,
+        "controls": null,
+        "links": {
+            "global": null,
+            "local": null
+        },
+        "subnodes": null
+    },
+    "timeline_header": {
+        "attributes": {
+            "BEAT#SyncMultiplier": {
+                "value": 1.0
+            },
+            "BEAT#Trigger": {
+                "value": 0
+            },
+            "BEAT#max": {
+                "value": 3.4028234663852886e+38
+            },
+            "BEAT#min": {
+                "value": 1.1754943508222875e-38
+            },
+            "BEAT#smoothing": {
+                "value": 0.0
+            },
+            "BPM#SyncMultiplier": {
+                "value": 1.0
+            },
+            "BPM#Trigger": {
+                "value": 0
+            },
+            "BPM#max": {
+                "value": 3.4028234663852886e+38
+            },
+            "BPM#min": {
+                "value": 1.1754943508222875e-38
+            },
+            "BPM#smoothing": {
+                "value": 0.0
+            },
+            "POSITION#SyncMultiplier": {
+                "value": 1.0
+            },
+            "POSITION#Trigger": {
+                "value": 0
+            },
+            "POSITION#max": {
+                "value": 3.4028234663852886e+38
+            },
+            "POSITION#min": {
+                "value": 1.1754943508222875e-38
+            },
+            "POSITION#smoothing": {
+                "value": 0.0
+            }
+        },
+        "controls": {
+            "BEAT": {
+                "norm_value": 0.0,
+                "value": 0.7548351336445194
+            },
+            "BPM": {
+                "norm_value": 0.0,
+                "value": 80.35714285714292
+            },
+            "FOLLOW": {
+                "value": 0
+            },
+            "PLAY": {
+                "value": 1
+            },
+            "POSITION": {
+                "norm_value": 0.0,
+                "value": 67882.75483513364
+            },
+            "SHOW MORE CONTROLS": {
+                "value": 1
+            },
+            "SNAP WINDOWS": {
+                "value": 1
+            },
+            "STOP": {
+                "value": 0
+            }
+        },
+        "links": {
+            "global": null,
+            "local": null
+        },
+        "subnodes": null
+    }
+}

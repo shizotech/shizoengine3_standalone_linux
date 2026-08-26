@@ -1,0 +1,33 @@
+{
+    "channels": [
+        {
+            "batch_count": 1,
+            "byte_count": 1,
+            "name": "New channel",
+            "type": "8-bit",
+            "type_id": 0
+        },
+        {
+            "batch_count": 1,
+            "byte_count": 2,
+            "name": "New channel",
+            "type": "16-bit",
+            "type_id": 1
+        },
+        {
+            "batch_count": 1,
+            "byte_count": 3,
+            "name": "TestRGB",
+            "type": "RGB",
+            "type_id": 2
+        },
+        {
+            "batch_count": 1,
+            "byte_count": 4,
+            "name": "TestRGBW",
+            "type": "RGBW",
+            "type_id": 3
+        }
+    ],
+    "type": "fixture"
+}
