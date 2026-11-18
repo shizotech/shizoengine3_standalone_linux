@@ -96,6 +96,7 @@ VibeVJ is built to be driven by an AI agent:
 
 ## License & Notes
 
-- Distributed under **Non-Commercial Software License v1.0** (see the PDF at the repo root).
+- Distributed under **Non-Commercial Software License v1.1** (`LICENSE.md`, the same text as the PDF at the repo root).
+- Third-party components (FFmpeg and the other bundled libraries) are under their own licenses: `THIRD_PARTY_NOTICES.md`.
 - The `shizotech/` directory is the ShizoScript **standard library** — read-only reference. Do **not** edit it.
 - `engine/assets/` and `engine/processes/` are engine-internal glue — do **not** change them.
